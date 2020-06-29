@@ -1,6 +1,6 @@
 
 # array-operations
-Written in C++03\
+Written in C99\
 It has 20 different operations on 2D arrays, using only pointers, and dynamic allocation without signs "[" and "]"\
 **AFR w e0 ... ew-1** - Add row at begining of structure with *w* number of elements: *e0, e1, ..., ew-1*\
 **ALR w e0 ... e2-1** - Add row at the end of structure with *w* number of elements: *e0, e1, ..., ew-1*\
